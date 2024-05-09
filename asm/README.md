@@ -6,7 +6,8 @@ Given a certain set of data, write the assembly code to have it print a specific
 
 ```+-------------------+
 | Assembly Language |
-+-------------------+```
++-------------------+
+```
 
 ## `missing_data.asm`
 Given a segment of assembly code, write the data string(s) that give a certain output. Prints "I like milk chocolate with nuts"
