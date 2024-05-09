@@ -1,3 +1,7 @@
+## `factorial.asm`
+
+Calculates the factorial. Code based on livecode from class 12/8/22
+
 ## `sub.asm`
 
 Practices using the `sub` command in NASM: Given a certain set of data, what code to fill in to give a certain output for the data?
