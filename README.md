@@ -1,6 +1,6 @@
 
 
-# csc231-nasm-4functions
+### 4functions.asm
 CSC231 HW 8
 
 Creates four functions as follows:
