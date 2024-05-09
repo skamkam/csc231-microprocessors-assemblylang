@@ -26,13 +26,9 @@ Takes in a string, turns all lowercase ASCII to uppercase, turns all periods to 
 ## Assembly Language - Fibonacci Sequence
 Calculates a modified fibonacci number given a user-input index. Modified function `f(n) = f(n-1) + f(n-2) + f(n-3)`, with `f(1)=1, f(2)=1, f(3)=1`
 
-`fib3_nonrecurs_full.asm`
+`fib3_nonrecurs_full.asm` - Full (main) asm file for a nonrecursive solution
 
-Full (main) asm file for a nonrecursive solution
-
-`fib3_recursive_function.asm`
-
-Function with a global file, with a recursive solution
+`fib3_recursive_function.asm` - Function with a global file, with a recursive solution
 
 
 ## `changestr.asm`
