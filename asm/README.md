@@ -1,3 +1,11 @@
+## `sub.asm`
+
+Practices using the `sub` command in NASM: Given a certain set of data, what code to fill in to give a certain output for the data?
+
+## `mul.asm`
+
+Practices using the `mul` command in NASM
+
 ## `char_decoder.asm`
 
 Reads in 32-bit unsigned integer from user. Stores integer as RAM at label `x`, defined as `dd`; decrypts the four bytes at labels `x`, `x+1`, `x+2`, `x+3` as follows:
