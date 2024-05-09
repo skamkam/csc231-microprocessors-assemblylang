@@ -1,4 +1,4 @@
-`char_decoder.asm`
+## `char_decoder.asm`
 
 Reads in 32-bit unsigned integer from user. Stores integer as RAM at label `x`, defined as `dd`; decrypts the four bytes at labels `x`, `x+1`, `x+2`, `x+3` as follows:
 
@@ -19,11 +19,11 @@ Integers that should translate correctly:
 * 2890309485
 
 
-`str_transition.asm`
+## `str_transition.asm`
 
 Takes in a string, turns all lowercase ASCII to uppercase, turns all periods to exclamation marks
 
-### Assembly Language - Fibonacci Sequence
+## Assembly Language - Fibonacci Sequence
 Calculates a modified fibonacci number given a user-input index. Modified function `f(n) = f(n-1) + f(n-2) + f(n-3)`, with `f(1)=1, f(2)=1, f(3)=1`
 
 `fib3_nonrecurs_full.asm`
@@ -35,12 +35,12 @@ Full (main) asm file for a nonrecursive solution
 Function with a global file, with a recursive solution
 
 
-`changestr.asm`
+## `changestr.asm`
 
 Prompts the user for a string of characters, changes the string in place: lowercase letters become uppercase, periods become exclamation marks; prints changed string back to console
 
 
-`4functions.asm`
+## `4functions.asm`
 
 Creates four functions as follows:
 
