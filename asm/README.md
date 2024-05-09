@@ -1,3 +1,7 @@
+### changestr.asm
+CSC231 HW 8
+
+Prompts the user for a string of characters, changes the string in place: lowercase letters become uppercase, periods become exclamation marks; prints changed string back to console
 
 
 ### 4functions.asm
