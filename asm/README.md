@@ -4,9 +4,9 @@ Prints bubble-letter formatted "CSC 231"
 ## `missing_code.asm`
 Given a certain set of data, write the assembly code to have it print a specifically formatted message:
 
-`+-------------------+`
-`| Assembly Language |`
-`+-------------------+`
+```+-------------------+
+| Assembly Language |
++-------------------+```
 
 ## `missing_data.asm`
 Given a segment of assembly code, write the data string(s) that give a certain output. Prints "I like milk chocolate with nuts"
