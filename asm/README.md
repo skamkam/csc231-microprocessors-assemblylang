@@ -1,14 +1,30 @@
+## `bubbleletters.asm`
+Prints bubble-letter formatted "CSC 231"
+
+## `missing_code.asm`
+Given a certain set of data, write the assembly code to have it print a specifically formatted message:
+
+`+-------------------+`
+`| Assembly Language |`
+`+-------------------+`
+
+## `missing_data.asm`
+Given a segment of assembly code, write the data string(s) that give a certain output. Prints "I like milk chocolate with nuts"
+
 ## `factorial.asm`
 
 Calculates the factorial. Code based on livecode from class 12/8/22
 
+## `add.asm`
+Practice using the add command from nasm assembler; computes `"ans = 4*(2*a+b+c) + 2*(c+1)"`
+
 ## `sub.asm`
 
-Practices using the `sub` command in NASM: Given a certain set of data, what code to fill in to give a certain output for the data?
+Practice using the `sub` command in NASM: Given a certain set of data, what code to fill in to give a certain output for the data?
 
 ## `mul.asm`
 
-Practices using the `mul` command in NASM
+Practice using the `mul` command in NASM
 
 ## `char_decoder.asm`
 
