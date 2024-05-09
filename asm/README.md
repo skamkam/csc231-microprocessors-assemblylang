@@ -4,7 +4,8 @@ Prints bubble-letter formatted "CSC 231"
 ## `missing_code.asm`
 Given a certain set of data, write the assembly code to have it print a specifically formatted message:
 
-```+-------------------+
+```
++-------------------+
 | Assembly Language |
 +-------------------+
 ```
